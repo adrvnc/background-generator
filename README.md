@@ -14,7 +14,7 @@
 ## Overview
 ### Screenshot
 
-![Background Generator Screenshot]()
+![Background Generator Screenshot](https://github.com/adrvnc/background-generator/blob/main/background-generator.png)
 ### Links
 
 - [GitHub Repo URL](https://github.com/adrvnc/background-generator)
